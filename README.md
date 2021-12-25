@@ -39,6 +39,7 @@ Starting Address: 182.28.20.0
 	
 		Subnet mask to be taken = 255.255.255.248
 	so we have now 16 address,
+	
 		Network address = First address in the subnet = 182.28.20.0
 		Gateway address = First usable address = 182.28.20.1
 		Broadcast address = Last address in the subnet = 182.28.20.7
@@ -47,8 +48,10 @@ broadcast address ]
 2. Procurement In 1 wireless
 		
 	No of required address = 7 +3 = 10            [ 3 for gateway, network, broadcast address]
+	
 		Subnet mask to be taken = 255.255.255.240
 	so we have now 16 address,
+	
 		Network address = First address in the subnet = 182.28.20.8
 		Gateway address = First usable address = 182.28.20.9
 		Broadcast address = Last address in the subnet = 182.28.20.23
@@ -57,8 +60,10 @@ broadcast address ]
 3. Procurement In 2 wired
 		
 	No of required address = 4  +3 = 7           [ 3 for gateway, network, broadcast address]
+	
 		Subnet mask to be taken = 255.255.255.248
 	so we have now 16 address,
+	
 		Network address = First address in the subnet = 182.28.20.24
 		Gateway address = First usable address = 182.28.20.25
 		Broadcast address = Last address in the subnet = 182.28.20.31
@@ -67,8 +72,10 @@ broadcast address ]
 4. Procurement In 2 wireless
 		
 	No of required address = 7 +3 = 10            [ 3 for gateway, network, broadcast address]
+	
 		Subnet mask to be taken = 255.255.255.240
 	so we have now 16 address,
+	
 		Network address = First address in the subnet = 182.28.20.32
 		Gateway address = First usable address = 182.28.20.33
 		Broadcast address = Last address in the subnet = 182.28.20.47
@@ -77,8 +84,10 @@ broadcast address ]
 5. Outlet1 billing 
 		
 	No of required address = 10  +3 = 13          [ 3 for gateway, network, broadcast address]
+	
 		Subnet mask to be taken = 255.255.255.240
 	so we have now 16 address,
+	
 		Network address = First address in the subnet = 182.28.20.48
 		Gateway address = First usable address = 182.28.20.49
 		Broadcast address = Last address in the subnet = 182.28.20.63
@@ -87,8 +96,10 @@ broadcast address ]
 6. Outlet1 Outfordelivery 
 		
 	No of required address = 10 +3 = 13            [ 3 for gateway, network, broadcast address]
+	
 		Subnet mask to be taken = 255.255.255.240
 	so we have now 16 address,
+	
 		Network address = First address in the subnet = 182.28.20.64
 		Gateway address = First usable address = 182.28.20.65
 		Broadcast address = Last address in the subnet = 182.28.20.79
@@ -97,8 +108,10 @@ broadcast address ]
 7. Outlet2 billing 
 		
 	No of required address = 10  +3 = 13          [ 3 for gateway, network, broadcast address]
+	
 		Subnet mask to be taken = 255.255.255.240
 	so we have now 16 address,
+	
 		Network address = First address in the subnet = 182.28.20.80
 		Gateway address = First usable address = 182.28.20.81
 		Broadcast address = Last address in the subnet = 182.28.20.95
@@ -107,8 +120,10 @@ broadcast address ]
 8. Outlet2 Outfordelivery 
 		
 	No of required address = 10 +3 = 13            [ 3 for gateway, network, broadcast address]
+	
 		Subnet mask to be taken = 255.255.255.240
 	so we have now 16 address,
+	
 		Network address = First address in the subnet = 182.28.20.96
 		Gateway address = First usable address = 182.28.20.97
 		Broadcast address = Last address in the subnet = 182.28.20.111
@@ -118,8 +133,10 @@ broadcast address ]
 9. Main office
 		
 	No of required address = 7 +3 = 10         [ 3 for gateway, network, broadcast address]
+	
 		Subnet mask to be taken = 255.255.255.240
 	so we have now 16 address,
+	
 		Network address = First address in the subnet = 182.28.20.112
 		Gateway address = First usable address = 182.28.20.113
 		Broadcast address = Last address in the subnet = 182.28.20.127
@@ -128,9 +145,12 @@ broadcast address ]
 10. Server Room
 		
 	No of required address = 6 +3 = 9        [ 3 for gateway, network, broadcast address]
+	
 		Subnet mask to be taken = 255.255.255.248
 	so we have now 16 address
-		Network address = First address in the subnet = 182.28.20.128		Gateway address = First usable address = 182.28.20.129
+	
+		Network address = First address in the subnet = 182.28.20.128		
+		Gateway address = First usable address = 182.28.20.129
 		Broadcast address = Last address in the subnet = 182.28.20.143
 Number of usable address = 8- 2 = 614           [ Excluding Network and
 broadcast address ]
