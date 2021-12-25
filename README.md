@@ -9,6 +9,17 @@ spread across a region. The most effective warehouse system products raise the o
 performance which leads to more productivity. It ensures smooth production operations by
 maintaining reasonable stocks of materials.
 
+# Cisco Packet tracer Implementation
+## Procurement Department :
+When new products arrive at the warehouse they are scanned , labelled and entered into the system .
+## Shipment:
+The product is checked and packed accordingly and an entry in the system is made before the product is out for shipment
+##Head Office :
+Where queries and data about the product are sent through mail .
+
+Starting Address: 182.28.20.0
+
+
 | Department | No of devices  |
 | :---:   | :-: |
 | Procurement In 1 WIRELESS | 4 |
