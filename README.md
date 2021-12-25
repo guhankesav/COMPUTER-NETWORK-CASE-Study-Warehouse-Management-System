@@ -36,6 +36,7 @@ Starting Address: 182.28.20.0
 1. Procurement In 1 wired
 		
 	No of required address = 4  +3 = 7           [ 3 for gateway, network, broadcast address]
+	
 		Subnet mask to be taken = 255.255.255.248
 	so we have now 16 address,
 		Network address = First address in the subnet = 182.28.20.0
