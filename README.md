@@ -24,7 +24,7 @@ maintaining reasonable stocks of materials.
 
 
 | Department | Subnet Mask | Network address | Broadcast Address | Gateway address | useable |
-| :---:   | :-: | :-: |
+| :---:   | :-: | :-: | :-: | :-: | :-: |
 | Procurement In 1 wireless | 255.255.255.248 | 182.28.20.0 | 182.28.20.7 | 182.28.20.1 | 6 |
 | Procurement In 2 wireless | 255.255.255.248 | 182.28.20.8 | 182.28.20.15 | 182.28.20.9 | 6 |
 | Procurement In 1 wired | 255.255.255.240 | 182.28.20.16 | 182.28.20.31 | 182.28.20.17 | 14 |
