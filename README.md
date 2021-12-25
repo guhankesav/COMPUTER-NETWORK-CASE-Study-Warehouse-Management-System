@@ -1,5 +1,5 @@
-# COMPUTER-NETWORK-CASE-STUDY
-## Warehouse-Management-System
+# COMPUTER NETWORK CASE STUDY
+## Warehouse Management System
 
 
 ### Problem Statement:
