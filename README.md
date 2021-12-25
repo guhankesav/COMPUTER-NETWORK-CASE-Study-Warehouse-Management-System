@@ -14,7 +14,7 @@ maintaining reasonable stocks of materials.
 When new products arrive at the warehouse they are scanned , labelled and entered into the system .
 ## Shipment:
 The product is checked and packed accordingly and an entry in the system is made before the product is out for shipment
-##Head Office :
+## Head Office :
 Where queries and data about the product are sent through mail .
 
 Starting Address: 182.28.20.0
